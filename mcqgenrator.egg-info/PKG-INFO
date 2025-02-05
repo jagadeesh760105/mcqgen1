@@ -8,3 +8,5 @@ Requires-Dist: langchain
 Requires-Dist: streamlit
 Requires-Dist: python-dotenv
 Requires-Dist: PyPDF2
+Requires-Dist: langchain_huggingface
+Requires-Dist: langchain-groq==0.1.9

@@ -3,3 +3,5 @@ langchain
 streamlit
 python-dotenv
 PyPDF2
+langchain_huggingface
+langchain-groq==0.1.9
