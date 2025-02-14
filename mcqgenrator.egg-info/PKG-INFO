@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.2
 Name: mcqgenrator
 Version: 0.0.1
 Author: jagadeesh naik
@@ -10,3 +10,6 @@ Requires-Dist: python-dotenv
 Requires-Dist: PyPDF2
 Requires-Dist: langchain_huggingface
 Requires-Dist: langchain-groq==0.1.9
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
