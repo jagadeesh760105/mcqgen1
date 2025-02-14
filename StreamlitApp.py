@@ -12,6 +12,9 @@ from src.mcqgenerator.MCQgenerator import generate_evaluate_chain
 #loading json file
 with open('responce.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
+ 
+ #creating a title for the app
+st.title("MCQs Creator Application with LangChain 🦜⛓️")
     
 #Create a form using st.form
 with st.form("user_inputs"):
